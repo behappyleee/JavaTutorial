@@ -8,12 +8,12 @@ public class _01_VariableEx {
 		String name = "이철한";
 		int age = 28;
 		String email = "lch93609@naver.com"; 
-	    
+	    System.out.println("Hello World!!");
 		System.out.println("이름: "+ name); 
 		System.out.println("나이: "+ age);
 		System.out.println("email: "+ email);
         System.out.println("------------------------");
-        
+        System.out.println("Hello World");
 	    int num1; int num2;    // int는 메모리에 4byte차지
 	    num1 = 20;  num2 = 10;
 	    int addR = num1 + num2; 
